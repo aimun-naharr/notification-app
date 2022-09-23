@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Nunito:ital,wght@0,500;0,600;1,400&display=swap');
 :root{
   --red:#f65351;
   --primaryBlue: hsl(219, 85%, 26%);
@@ -13,9 +14,12 @@
   padding: 0;
   
 }
+body{
+  background: var(--grayishBlue);
+}
 
 .App{
-  background: var(--white);
+ 
   height: 100vh;
-  overflow: hidden;
+ 
 }

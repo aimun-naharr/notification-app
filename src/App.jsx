@@ -1,17 +1,14 @@
-import { useState } from "react";
-
 import "./App.css";
-import useNotification from "./Hooks/Notification";
+import Container from "./Components/Container/Container";
+
 
 
 function App() {
- const [notifications, loading]=useNotification()
-console.log(notifications)
-  return (
+ return (
     <div className="App">
-      <h1>hello from noti</h1>
+      <Container></Container>
     </div>
-  );
+  )
 }
 
 export default App;

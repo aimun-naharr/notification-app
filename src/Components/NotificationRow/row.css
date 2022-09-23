@@ -1,0 +1,65 @@
+.row{
+   display: flex;
+   align-items: flex-start;
+   gap: 10px;
+   
+   padding: 10px 20px;
+   border-radius: 5px;
+}
+.row  img{
+    width: 50px;
+}
+.seen{
+    background-color: var(--grayishBlue);
+    display: flex;
+   align-items: flex-start;
+   gap: 10px;
+  
+   padding: 10px 20px;
+   border-radius: 5px;
+}
+.seen img{
+    width: 50px;
+}
+.notify-msg{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.red-dot{
+    width: 5px;
+    height: 5px;
+    border: 2px solid red;
+    background-color: var(--red);
+    border-radius: 50%;
+}
+.notify-body{
+    display: flex;
+    flex-direction: column;
+}
+.notify-body .name{
+    color: black;
+    font-weight: bold;
+}
+.notify-body .notific{
+    color: gray;
+}
+.notify-body .post{
+color: var(--primaryBlue);
+font-weight: bold;
+}
+.notify-body .time{
+    color: gray;
+    font-size: 14px;
+}
+.notify-body .note{
+    background-color: var(--lightBlue);
+    color: gray;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.notify-body .game{
+color: gray;
+font-weight: bold;
+}

@@ -2,39 +2,57 @@
   { "id":1,
      "name":"Mark Webber",
      "notific":"reacted to your recent post",
+     "img":"https://i.ibb.co/Wg6vW2y/avatar-mark-webber.webp",
+     "read": true,
+     "time": "1m ago",
      "postName":"My first tournament today"
     },
   { "id":2,
      "name":"Angela gray",
+     "img":"https://i.ibb.co/2yDsQXY/avatar-angela-gray.webp",
+     "read": true,
+     "time": "5m ago",
      "notific":"followed you"
    },
   { "id":3,
      "name":"Jacob Thampson",
      "notific":"has joinded your group",
+     "img":"https://i.ibb.co/vxZxGmS/avatar-jacob-thompson.webp",
+     "read": true,
+     "time": "1 day ago",
      "postName":"Chess club"
     },
   { "id":4,
      "name":"Rizky hasanuddin",
      "notific":"sent you a private message",
+     "img":"https://i.ibb.co/S37nVfT/avatar-rizky-hasanuddin.webp",
+     "read": false,
+     "time":"5 days ago",
      "note":"Hello thanks for setting up the chess club. I've been member for a few weeks now and I'm already having lots of fun and improving my game."
     },
-  { "id":5,
-     "name":"Kimberly Smith",
-     "notific":"has joinded your group"
-    },
+  
   { "id":6,
      "name":"Kimberly smith",
+     "img":"https://i.ibb.co/3rcV3tz/avatar-kimberly-smith.webp",
+     "read": false,
+     "time":"1 week ago",
      "notific":"commented on your picture"
          },
   { "id":7,
      "name":"Nathan Peterson",
+     "img":"https://i.ibb.co/ph0PptW/avatar-nathan-peterson.webp",
+     "read": false,
+     "time":"5 weeks ago",
      "notific":"reacted on your recent post",
      "gamePost": "5 end game strategies to increase your win rate"
      
     },
   { "id":8,
      "name":"Anna Kim",
+     "img":"https://i.ibb.co/cXgXsQh/avatar-anna-kim.webp",
+     "read": false,
+     "time": "6 weeks ago",
      "notific":"left the group",
-     "gamePost": "Chess Club"
+     "postName": "Chess Club"
       }
 ]
