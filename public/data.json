@@ -1,0 +1,40 @@
+[
+  { "id":1,
+     "name":"Mark Webber",
+     "notific":"reacted to your recent post",
+     "postName":"My first tournament today"
+    },
+  { "id":2,
+     "name":"Angela gray",
+     "notific":"followed you"
+   },
+  { "id":3,
+     "name":"Jacob Thampson",
+     "notific":"has joinded your group",
+     "postName":"Chess club"
+    },
+  { "id":4,
+     "name":"Rizky hasanuddin",
+     "notific":"sent you a private message",
+     "note":"Hello thanks for setting up the chess club. I've been member for a few weeks now and I'm already having lots of fun and improving my game."
+    },
+  { "id":5,
+     "name":"Kimberly Smith",
+     "notific":"has joinded your group"
+    },
+  { "id":6,
+     "name":"Kimberly smith",
+     "notific":"commented on your picture"
+         },
+  { "id":7,
+     "name":"Nathan Peterson",
+     "notific":"reacted on your recent post",
+     "gamePost": "5 end game strategies to increase your win rate"
+     
+    },
+  { "id":8,
+     "name":"Anna Kim",
+     "notific":"left the group",
+     "gamePost": "Chess Club"
+      }
+]

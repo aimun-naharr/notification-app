@@ -1,0 +1,21 @@
+:root{
+  --red:#f65351;
+  --primaryBlue: hsl(219, 85%, 26%);
+  --white: hsl(0, 0%, 100%);
+  --grayishBlue: hsl(210, 60%, 98%);
+  --lightBlue: hsl(205, 33%, 90%);
+  --blue: hsl(219, 14%, 63%);
+  --darkBlue: hsl(219, 12%, 42%);
+  --vdarkBlue: hsl(224, 21%, 14%);
+}
+*{
+  margin: 0px;
+  padding: 0;
+  
+}
+
+.App{
+  background: var(--white);
+  height: 100vh;
+  overflow: hidden;
+}
