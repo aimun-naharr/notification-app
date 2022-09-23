@@ -10,7 +10,7 @@ const useNotification = () => {
       setNotications(data)
     setLoading(false)})
    },[])
-   return [notifications, loading ]
+   return [notifications, setNotications, loading ]
 };
 
 export default useNotification;

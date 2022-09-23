@@ -8,7 +8,7 @@ const Row = ({data}) => {
          
             <img src={img} alt="" />
             <div className='notify-body'>
-                <p><span className="name">{name}</span> <span className="notific">{notific? notific: ''}</span> <span className="post">{postName? postName: ''}</span> <span className="game">{gamePost? gamePost:''}</span> {read? <div className='red-dot'></div>: ''}</p>
+                <p><span className="name">{name}</span> <span className="notific">{notific? notific: ''}</span> <span className="post">{postName? postName: ''}</span> <span className="game">{gamePost? gamePost:''}</span></p>
                 <span className='time'>{time}</span>
                 {
                     note? <p className='note'>{note}</p>:''
